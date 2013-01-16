@@ -10,6 +10,6 @@ To convert temperature in 8*8 ways
 # newton
 # Reaumur
 # Romer
-Any of hose temperature units could be converted to other any of those temperature units by that all are converted to kelvin initically. 
+Any of those temperature units could be converted to other any of those temperature units by that all are converted to kelvin initially. 
 
 This software includes a simple session.
